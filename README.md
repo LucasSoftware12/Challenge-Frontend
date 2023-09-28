@@ -21,7 +21,7 @@ Te recomiendo abrirlo en el navegador incognito!
 
 ## Sugerencias
 
-1. Primero levanta el servidor Backend
+1. Primero levanta el servidor Backend: https://github.com/LucasSoftware12/Challenge-Backend/
 2. Cuando ejecutes npm start el puerto 3000 ya esta en uso por el backend, te va a pedir usar otro, apretar Y, se va a ejecutar en el puerto 3001
 
 
