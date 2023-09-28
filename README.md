@@ -10,14 +10,6 @@ Esta es una aplicación simple de lista de tareas creada con React y Redux. Perm
 - **Persistencia de Datos:** Las tareas se almacenan en el almacenamiento local para que no se pierdan al recargar la página.
 - **Integración con una API:** Las tareas también se sincronizan con un servidor backend a través de una API REST.
 
-## Capturas de Pantalla
-
-_Inserta aquí algunas capturas de pantalla de tu aplicación en acción._
-
-## Demo
-
-_Puedes proporcionar un enlace a una versión en vivo o demostración de tu aplicación._
-
 ## Instalación
 
 1. Clona este repositorio
